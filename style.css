@@ -50,6 +50,18 @@ a{
 p{
     font-family: monospace;
     color: #555;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 400px ;
+    margin-right: 400px;
+}
+.char{
+    font-family: monospace;
+    color: #555;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 400px ;
+    margin-right: 400px;
 }
 img{
     align-items: center;
@@ -156,4 +168,27 @@ hr{
     margin-bottom: 300px;
     width: 400px;
     height: 470px;
+}
+.feedback{
+    margin-left: 100px;
+    color: #555;
+}
+.input{
+    width: 250px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 820px;
+    
+}
+.input1{
+    width: 250px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 820px;
+}
+.input2{
+    width: 250px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 820px;
 }
